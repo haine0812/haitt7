@@ -1,0 +1,367 @@
+{
+    "dishes": [
+      {
+        "id": 0,
+        "name": "Phở chín",
+        "image": "images/chin.png",
+        "category": "mains",
+        "label": "Hot",
+        "price": "60k",
+        "featured": true,
+        "description": "Bánh phở, thịt bò chín."
+      },
+      {
+        "id": 1,
+        "name": "phở bắp bò",
+        "image": "images/bap.png",
+        "category": "mains",
+        "label": "",
+        "price": "65k",
+        "featured": false,
+        "description": "Bánh phở, bắp bò"
+      },
+      {
+        "id": 2,
+        "name": "phở gân ",
+        "image": "images/gan.png",
+        "category": "mains",
+        "label": "New",
+        "price": "65k",
+        "featured": false,
+        "description": "Bánh phở, gân bò"
+      },
+      {
+        "id": 3,
+        "name": "phở gầu",
+        "image": "images/gau.png",
+        "category": "mains",
+        "label": "",
+        "price": "65k",
+        "featured": false,
+        "description": "bánh phở"
+      },
+      {
+        "id": 4,
+        "name": "phở đuôi bò",
+        "image": "images/duoibo.png",
+        "category": "mains",
+        "label": "",
+        "price": "65k",
+        "featured": false,
+        "description": "bánh phở, đuôi bò"
+      },
+      {
+        "id": 5,
+        "name": "phở tái bò viên ",
+        "image": "images/taibovien.png",
+        "category": "mains",
+        "label": "",
+        "price": "70k",
+        "featured": false,
+        "description": "bánh phở, thịt bò tái, bò viên"
+      },
+      {
+        "id": 6,
+        "name": "phở tái nạm gầu ",
+        "image": "images/tainamgau.png",
+        "category": "mains",
+        "label": "",
+        "price": "70k",
+        "featured": false,
+        "description": "bánh phở, thịt bò tái, gầu"
+      },
+      {
+        "id": 7,
+        "name": "phở Thập cẩm ",
+        "image": "images/dacbiet.png",
+        "category": "mains",
+        "label": "",
+        "price": "80k",
+        "featured": false,
+        "description": "Thập cẩm "
+      },
+      {
+        "id": 8,
+        "name": "lẩu bò 5 món ",
+        "image": "images/bo5mon.png",
+        "category": "mains",
+        "label": "",
+        "price": "150k",
+        "featured": false,
+        "description": "Đặt biệt"
+      }
+    ],
+    "comments": [
+      {
+        "id": 0,
+        "dishId": 0,
+        "rating": 5,
+        "comment": "ngon ngon",
+        "author": "John Lemon",
+        "date": "2012-10-16T17:57:28.556094Z"
+      },
+      {
+        "id": 1,
+        "dishId": 0,
+        "rating": 4,
+        "comment": "ok ",
+        "author": "Paul McVites",
+        "date": "2014-09-05T17:57:28.556094Z"
+      },
+      {
+        "id": 2,
+        "dishId": 0,
+        "rating": 3,
+        "comment": "Eat it, just eat it!",
+        "author": "Michael Jaikishan",
+        "date": "2015-02-13T17:57:28.556094Z"
+      },
+      {
+        "id": 3,
+        "dishId": 0,
+        "rating": 4,
+        "comment": "Ultimate, Reaching for the stars!",
+        "author": "Ringo Starry",
+        "date": "2013-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 4,
+        "dishId": 0,
+        "rating": 2,
+        "comment": "It's your birthday, we're gonna party!",
+        "author": "25 Cent",
+        "date": "2011-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 5,
+        "dishId": 1,
+        "rating": 5,
+        "comment": "Imagine all the eatables, living in conFusion!",
+        "author": "John Lemon",
+        "date": "2012-10-16T17:57:28.556094Z"
+      },
+      {
+        "id": 6,
+        "dishId": 1,
+        "rating": 4,
+        "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+        "author": "Paul McVites",
+        "date": "2014-09-05T17:57:28.556094Z"
+      },
+      {
+        "id": 7,
+        "dishId": 1,
+        "rating": 3,
+        "comment": "Eat it, just eat it!",
+        "author": "Michael Jaikishan",
+        "date": "2015-02-13T17:57:28.556094Z"
+      },
+      {
+        "id": 8,
+        "dishId": 1,
+        "rating": 4,
+        "comment": "Ultimate, Reaching for the stars!",
+        "author": "Ringo Starry",
+        "date": "2013-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 9,
+        "dishId": 1,
+        "rating": 2,
+        "comment": "It's your birthday, we're gonna party!",
+        "author": "25 Cent",
+        "date": "2011-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 10,
+        "dishId": 2,
+        "rating": 5,
+        "comment": "Imagine all the eatables, living in conFusion!",
+        "author": "John Lemon",
+        "date": "2012-10-16T17:57:28.556094Z"
+      },
+      {
+        "id": 11,
+        "dishId": 2,
+        "rating": 4,
+        "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+        "author": "Paul McVites",
+        "date": "2014-09-05T17:57:28.556094Z"
+      },
+      {
+        "id": 12,
+        "dishId": 2,
+        "rating": 3,
+        "comment": "Eat it, just eat it!",
+        "author": "Michael Jaikishan",
+        "date": "2015-02-13T17:57:28.556094Z"
+      },
+      {
+        "id": 13,
+        "dishId": 2,
+        "rating": 4,
+        "comment": "Ultimate, Reaching for the stars!",
+        "author": "Ringo Starry",
+        "date": "2013-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 14,
+        "dishId": 2,
+        "rating": 2,
+        "comment": "It's your birthday, we're gonna party!",
+        "author": "25 Cent",
+        "date": "2011-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 15,
+        "dishId": 3,
+        "rating": 5,
+        "comment": "Imagine all the eatables, living in conFusion!",
+        "author": "John Lemon",
+        "date": "2012-10-16T17:57:28.556094Z"
+      },
+      {
+        "id": 16,
+        "dishId": 3,
+        "rating": 4,
+        "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+        "author": "Paul McVites",
+        "date": "2014-09-05T17:57:28.556094Z"
+      },
+      {
+        "id": 17,
+        "dishId": 3,
+        "rating": 3,
+        "comment": "Eat it, just eat it!",
+        "author": "Michael Jaikishan",
+        "date": "2015-02-13T17:57:28.556094Z"
+      },
+      {
+        "id": 18,
+        "dishId": 3,
+        "rating": 4,
+        "comment": "Ultimate, Reaching for the stars!",
+        "author": "Ringo Starry",
+        "date": "2013-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 19,
+        "dishId": 3,
+        "rating": 2,
+        "comment": "It's your birthday, we're gonna party!",
+        "author": "25 Cent",
+        "date": "2011-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 20,
+        "dishId": 4,
+        "rating": 2,
+        "comment": "It's your birthday, we're gonna party!",
+        "author": "25 Cent",
+        "date": "2011-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 21,
+        "dishId": 5,
+        "rating": 4,
+        "comment": "okok",
+        "author": "25 Cent",
+        "date": "2011-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 22,
+        "dishId": 6,
+        "rating": 5,
+        "comment": "ok",
+        "author": "25 Cent",
+        "date": "2011-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 23,
+        "dishId": 7,
+        "rating": 3,
+        "comment": "bad",
+        "author": "25 Cent",
+        "date": "2011-12-02T17:57:28.556094Z"
+      },
+      {
+        "id": 24,
+        "dishId": 8,
+        "rating": 5,
+        "comment": "yeah",
+        "author": "25 Cent",
+        "date": "2011-12-02T17:57:28.556094Z"
+      }
+    ],
+    "promotions": [
+      {
+        "id": 0,
+        "name": "lẩu bò 5 món",
+        "image": "images/bo5mon.png",
+        "label": "New",
+        "price": "150k",
+        "featured": true,
+        "description": "ĐẶT BIỆT lẩu dành cho nhóm 3 người"
+      }
+    ],
+    "leaders": [
+      {
+        "id": 0,
+        "name": "Trần Văn Công",
+        "image": "images/1.png",
+        "designation": "Chief Epicurious Officer",
+        "abbr": "CEO",
+        "featured": false,
+        "description": "Anh Trần Văn Công (sinh năm 1994) chia sẻ: “Thực khách thường ưu ái gọi tôi là đầu bếp nấu phở “chọc trời”, phở “hạng sang” và tò mò tìm tới nhưng thực tế, quán phở của tôi bây giờ là phở có mức giá rất bình dân, từ 50.000 đồng/tô”."
+      },
+      {
+        "id": 1,
+        "name": "Trần Thanh Hải ",
+        "image": "images/ID1.png",
+        "designation": "Chief Food Officer",
+        "abbr": "CFO",
+        "featured": false,
+        "description": "2191467"
+      },
+      {
+        "id": 2,
+        "name": "Phạm Đỗ trung Quân ",
+        "image": "images/ID2.png",
+        "designation": "Chief Taste Officer",
+        "abbr": "CTO",
+        "featured": false,
+        "description": "2192048"
+      },
+      {
+        "id": 3,
+        "name": "Bùi Phúc Thịnh",
+        "image": "images/ID3.png",
+        "designation": "Executive Chef",
+        "abbr": "EC",
+        "featured": false,
+        "description": "22000245"
+      },
+      {
+        "id": 4,
+        "name": "Báo cáo đồ án",
+        "image": "",
+        "designation": "",
+        "abbr": "",
+        "featured": true,
+        "description": "nhóm gồm 3 thành viên"
+      }
+    ],
+    "feedback": [
+      {
+        "firstname": "fdas",
+        "lastname": "afds",
+        "telnum": "134113",
+        "email": "dafdads@daffas.dfdafd",
+        "agree": true,
+        "contactType": "Email",
+        "message": "afadsfds",
+        "date": "2024-06-04T09:41:49.890Z",
+        "id": 1
+      }
+    ]
+  }
